@@ -3,11 +3,13 @@
     font-size: 14pt;
     line-height: 1.5;
     color: #222;
+    background-color: #eee;
 }
 
 body {
     max-width: 70ch;
     margin: 0 auto;
+    background-color: #fff;
 }
 
 img {
