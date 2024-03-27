@@ -22,3 +22,8 @@ h5,
 h6 {
   font-family: serif;
 }
+
+.recipes {
+  list-style-type: none;
+  padding: 0;
+}
